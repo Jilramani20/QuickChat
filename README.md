@@ -146,6 +146,9 @@ Terminate the process using the port or change the server port in the `.env` fil
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Application:** https://quick-chat-client-woad.vercel.app/
 
 # 📄 License
 
